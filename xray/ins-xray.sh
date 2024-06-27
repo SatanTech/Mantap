@@ -440,7 +440,7 @@ cat > /etc/trojan-go/config.json << END
   },
   "websocket": {
     "enabled": true,
-    "path": "/trojango",
+    "path": "/trojan-go",
     "host": "$domain"
   },
     "api": {
